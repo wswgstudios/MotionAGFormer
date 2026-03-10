@@ -1,0 +1,1 @@
+python train_3dhp.py --eval-only --checkpoint checkpoint --checkpoint-file motionagformer-l-mpi.pth.tr --config configs/mpi/MotionAGFormer-large.yaml

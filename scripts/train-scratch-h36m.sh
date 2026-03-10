@@ -1,0 +1,1 @@
+python train.py --config configs/h36m/MotionAGFormer-large.yaml --use-wandb --wandb-name MotionAGFormer-large

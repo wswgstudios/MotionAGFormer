@@ -1,0 +1,1 @@
+python demo/vis.py --video sample_video.mp4
